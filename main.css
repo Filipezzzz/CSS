@@ -34,6 +34,7 @@ header nav li a {
     color: chocolate;
     text-decoration: none;
     margin-left: 16px;
+    font-size: large;
 }
 
 .container {
@@ -150,4 +151,9 @@ input:focus, textarea:focus {
 
 .frente-loja {
     width: 100%;
+}
+
+footer {
+    background-color: bisque;
+    padding: 16px 0;
 }
